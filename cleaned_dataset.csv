@@ -1,0 +1,10 @@
+Customer_ID,Customer_Name,Gender,Date_of_Birth,City,Product_Category,Purchase_Date,Sales_Amount,Quantity,Payment_Mode,Customer_Age
+101,Rahul Sharma,M,1999-05-12,Delhi,Electronics,2024-01-15,45000.0,1,Credit Card,27
+102,Anita Verma,F,2000-08-25,Mumbai,Clothing,2024-01-18,3200.0,2,UPI,26
+104,Priya Singh,F,2001-03-14,Kolkata,Electronics,2024-01-22,38000.0,1,Debit Card,25
+105,Amit Patel,M,1997-07-30,Ahmedabad,Furniture,2024-01-25,15000.0,1,Credit Card,29
+106,Neha Reddy,F,2002-01-22,Hyderabad,Clothing,2024-01-28,2800.0,2,UPI,24
+107,Ravi Teja,M,1996-12-10,Bangalore,Groceries,2024-01-30,18105.0,3,Cash,30
+108,Sneha Iyer,F,1999-09-18,Chennai,Electronics,2024-02-02,52000.0,1,Credit Card,27
+109,Vikas Mehta,M,1995-06-05,Mumbai,Furniture,2024-02-05,18000.0,1,Debit Card,31
+110,Anjali Das,F,2002-01-22,Kolkata,Clothing,2024-02-07,3100.0,2,UPI,24
